@@ -1,0 +1,27 @@
+dropped at spawn ->
+cant go to crossroads 2 ->
+try to fix with lardy ->
+meet buddy and rando ->
+get wasted at the town bar ->
+buddy is now part of the game ->
+dice guys dont let you in ->
+you need joy ->
+find a buncha joy ->
+get your glasses ->
+get dice his joy ->
+uh oh ->
+escape ->
+go left. ->
+uh oh. ->
+find somewhere safe to stay ->
+wait for it to blow over ->
+buddy is no longer part of the game ->
+go left ->
+if ??? {
+	fight buddy ->
+} else {
+	do not ->
+}
+you win ->
+final score is the amount of stuff you get ->
+the end
